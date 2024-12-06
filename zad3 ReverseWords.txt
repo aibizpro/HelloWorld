@@ -1,0 +1,4 @@
+Opis: Napisz program, który przyjmuje od użytkownika zdanie, a następnie wypisuje je w odwrotnej kolejności słów.
+Przykład wejścia/wyjścia:
+Wejście: Ala ma kota
+Wyjście: kota ma Ala

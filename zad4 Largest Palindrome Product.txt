@@ -1,0 +1,3 @@
+Liczba palindromiczna czyta się tak samo w obie strony. Największy palindrom utworzony z iloczynu dwóch 2-cyfrowych liczb to 9009 = 91 x 99
+
+Znajdź największy palindrom utworzony z iloczynu dwóch 3-cyfrowych liczb.
